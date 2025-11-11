@@ -1,0 +1,7 @@
+{
+  "name": "Smart Fuel Station Control System",
+  "description": "A secure control system for smart fuel stations, featuring a robust email verification workflow powered by Firebase. Users must verify their email before they can complete registration and access the system dashboard.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
